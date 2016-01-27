@@ -1,6 +1,6 @@
 # Java Nonsense
 
-Generates random nonsense pronouncable words by doing a frquency analysis in 
+Generates random nonsense pronouncable words by doing a frquency analysis on dictionaries.
 
 ## Compiling
 
