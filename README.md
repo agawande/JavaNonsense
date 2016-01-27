@@ -1,6 +1,6 @@
 # Java Random Pronouncable Word Generator
 
-Generates random nonsense pronouncable words by doing a frquency analysis on dictionaries.
+Generates random nonsense pronounceable words by doing a frquency analysis on dictionaries.
 
 ## Compiling
 
