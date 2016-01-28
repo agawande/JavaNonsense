@@ -75,7 +75,7 @@ public class Client
 
         do
         {
-            System.out.print("Enter number of words to genetarte: ");
+            System.out.print("Enter number of words to generate: ");
             while(true)
             {
                 try
@@ -86,7 +86,7 @@ public class Client
                 catch(InputMismatchException e)
                 {
                     System.out.println("Please enter an integer!");
-                    System.out.print("Enter number of words to genetarte: ");
+                    System.out.print("Enter number of words to generate: ");
                     input.next();
                 }
             }
