@@ -11,4 +11,11 @@ javac Client.java
 
 java Client
 
-Check "sample" folder for example runs.
+Sample runs:
+English dictionary:
+
+![alt tag](https://raw.githubusercontent.com/agawande/JavaRandom/master/sample/sample_english.PNG)
+
+Latin dictionary:
+
+![alt tag](https://raw.githubusercontent.com/agawande/JavaRandom/master/sample/sample_latin.PNG)
