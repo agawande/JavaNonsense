@@ -2,12 +2,12 @@
 
 Generates random nonsense pronounceable words by doing a frquency analysis on dictionaries.
 
-## Compiling
+## Compile
 
 cd src
 javac Client.java
 
-## Running
+## Run
 
 java Client
 
